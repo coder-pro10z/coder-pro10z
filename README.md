@@ -1,6 +1,9 @@
 # 👋 Hi there, I'm Praveen Kashyap!
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-brightgreen)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=.net&logoColor=white)
+![ASP.NET Web API](https://img.shields.io/badge/-ASP.NET_Web_API-512BD4?logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -9,10 +12,19 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Angular Material](https://img.shields.io/badge/-Angular_Material-607D8B?logo=angular-material&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000)
+![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-512BD4)
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-4E74E6)
 
 ---
 
