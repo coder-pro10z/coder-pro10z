@@ -30,7 +30,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a detail-oriented **Full Stack Developer** with almost 2 years of professional experience working primarily with **.NET Core** and **Angular**. I also build projects using the **MERN stack** to explore different tech perspectives and stay versatile.
+I'm a detail-oriented **Full Stack Developer** with 2 years of professional experience working primarily with **.NET Core** and **Angular**. I also build projects using the **MERN stack** to explore different tech perspectives and stay versatile.
 
 - 💡 Currently enhancing my knowledge in DevOps & cloud computing.
 - 🎯 Goal: Build clean, maintainable, and scalable full-stack applications.
