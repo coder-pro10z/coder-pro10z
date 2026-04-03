@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Praveen Kashyap!
+
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-brightgreen)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?logo=.net&logoColor=white)
@@ -10,6 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
@@ -24,15 +26,14 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000)
 ![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-512BD4)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
-![WebSocket](https://img.shields.io/badge/-WebSocket-4E74E6)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a detail-oriented **Full Stack Developer** with 2 years of professional experience working primarily with **.NET Core** and **Angular**. I also build projects using the **MERN stack** to explore different tech perspectives and stay versatile.
+I'm a detail-oriented **Full Stack Developer** with 3 years of professional experience working primarily with **.NET Core** and **Angular**. I also build projects using the **MERN stack** and **Python** to explore different tech perspectives and stay versatile.
 
-- 💡 Currently enhancing my knowledge in DevOps & cloud computing.
+- 💡 Currently enhancing my personal projects, professional profile, and DevOps & cloud computing study sessions.
 - 🎯 Goal: Build clean, maintainable, and scalable full-stack applications.
 - 💬 Ask me about .NET, Angular, React, APIs, and secure coding.
 - 📫 Email: 2pkashyap2001@gmail.com
@@ -43,10 +44,12 @@ I'm a detail-oriented **Full Stack Developer** with 2 years of professional expe
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| 🏠 **Rent-at-ease** | .NET Core, Angular, SQL Server | Rental management app connecting landlords and tenants. |
-| ✅ **Task Management App** | React, Node.js, MongoDB | A productivity app for task organization. |
-| 🔐 **User_Auth_Project** | Express, MongoDB, JWT | Secure authentication system with token-based auth. |
-| 🎯 **AceThatInterview** | React, Node, APIs | Resource hub for mock interviews and prep material. |
+| 🛠️ **[FullStackMastery](https://github.com/coder-pro10z/FullStackMastery)** | .NET Core, Angular | Comprehensive full-stack architecture implementation. *(In Progress)* |
+| 💸 **[money-pilot](https://github.com/coder-pro10z/money-pilot)** | ASP.NET Core, Angular, C# | Full-stack personal finance platform. |
+| 🏠 **[RentIt](https://github.com/coder-pro10z/RentIt)** | MongoDB, Express, React, Node.js | Platform to list, browse, and book rental properties with user authentication. |
+| ✅ **[TaskManagementApp](https://github.com/coder-pro10z/TaskManagementApp)** | JavaScript, React, Node.js | A simple tool to organize daily tasks. |
+| 🎯 **[AceThatInterview](https://github.com/coder-pro10z/AceThatInterview)** | JavaScript, APIs | Resource hub for mock interviews and prep material. |
+| 📈 **[AlphaTrader](https://github.com/coder-pro10z/AlphaTrader)** | Python | Algorithmic trading and data analysis project. |
 
 👉 Explore more in [my repositories](https://github.com/coder-pro10z?tab=repositories)
 
@@ -55,9 +58,9 @@ I'm a detail-oriented **Full Stack Developer** with 2 years of professional expe
 ## 🧠 Tech Stack Summary
 
 **Frontend:** Angular, React, HTML5, CSS3, Bootstrap, Material UI  
-**Backend:** .NET Core, ASP.NET Web API, Node.js, Express  
+**Backend:** .NET Core, ASP.NET Web API, Node.js, Express, Python  
 **Database:** SQL Server, MongoDB  
-**Languages:** C#, JavaScript, TypeScript  
+**Languages:** C#, JavaScript, TypeScript, Python  
 **Tools & Platforms:** Git, Postman, Visual Studio, VS Code, Azure basics  
 **Auth & APIs:** JWT, OAuth, RESTful APIs  
 
