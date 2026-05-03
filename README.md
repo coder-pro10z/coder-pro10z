@@ -47,7 +47,7 @@ I'm a detail-oriented **Full Stack Developer** with 3 years of professional expe
 | 🛠️ **[FullStackMastery](https://github.com/coder-pro10z/FullStackMastery)** | .NET Core, Angular | Comprehensive full-stack architecture implementation. *(In Progress)* |
 | 💸 **[money-pilot](https://github.com/coder-pro10z/money-pilot)** | ASP.NET Core, Angular, C# | Full-stack personal finance platform. |
 | 🏠 **[RentIt](https://github.com/coder-pro10z/RentIt)** | MongoDB, Express, React, Node.js | Platform to list, browse, and book rental properties with user authentication. |
-| ✅ **[TaskManagementApp](https://github.com/coder-pro10z/TaskManagementApp)** | JavaScript, React, Node.js | A simple tool to organize daily tasks. |
+|  **[TaskManagementApp](https://github.com/coder-pro10z/TaskManagementApp)** | JavaScript, React, Node.js | A simple tool to organize daily tasks. |
 | 🎯 **[AceThatInterview](https://github.com/coder-pro10z/AceThatInterview)** | JavaScript, APIs | Resource hub for mock interviews and prep material. |
 | 📈 **[AlphaTrader](https://github.com/coder-pro10z/AlphaTrader)** | Python | Algorithmic trading and data analysis project. |
 
